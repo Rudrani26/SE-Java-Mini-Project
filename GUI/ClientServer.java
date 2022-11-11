@@ -134,7 +134,7 @@ public class ClientServer extends javax.swing.JFrame {
     }//GEN-LAST:event_ClientButtonActionPerformed
 
     private void ServerButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ServerButtonActionPerformed
-        ServerFrame s = new ServerFrame();
+        ServerPage s = new ServerPage();
         s.setVisible(true);
         s.pack();
         s.setLocationRelativeTo(null);
